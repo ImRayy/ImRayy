@@ -40,6 +40,6 @@
 ##  GitHub Stats
 
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrayy&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats-xi-navy.vercel.app/api?username=imrayy&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrayy&theme=dark&show_icons=true&hide_border=true&layout=compact" height="160" alt="languages graph"  />
 </div>
